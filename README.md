@@ -5,14 +5,15 @@
 <br/>
 <br/>
 
-## 🎥 프로젝트 설명
+## 🌻 프로젝트 설명
 ![image](project_image/슬라이드4.JPG)
 ![image](project_image/슬라이드6.JPG)
 ![image](project_image/슬라이드8.JPG)
 ![image](project_image/슬라이드10.JPG)
 ![image](project_image/슬라이드18.JPG)
 
-# 시연영상(https://youtu.be/vvR2YzrExpk?si=A1dRtW-o6epMg8tC)
+# 🎥 시연영상
+(https://youtu.be/vvR2YzrExpk?si=A1dRtW-o6epMg8tC)
 
 <br/>
 <br/>
