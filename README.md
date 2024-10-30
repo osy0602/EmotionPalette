@@ -20,7 +20,7 @@
 # 🏆 기술 스택
 ## Programming language
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/C#-F7DF1E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/C#-8A2BE2"/>
 <br/>
 
 ## Development Tool & Framework
