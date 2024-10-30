@@ -24,7 +24,7 @@
 <br/>
 
 ## Development Tool & Framework
-<img src="https://img.shields.io/badge/unity-000000?style=for-the-badge&logo=Unity&logoColor=white"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/unity-000000?style=for-the-badge&logo=Unity&logoColor=white"/> <img src="https://img.shields.io/badge/pycharm-009688?style=for-the-badge&logo=pycharm&logoColor=white"/>
 <br/>
 
 
