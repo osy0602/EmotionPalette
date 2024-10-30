@@ -20,11 +20,11 @@
 # 🏆 기술 스택
 ## Programming language
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/C#-F7DF1E?style=for-the-badge&logo=C#&logoColor=white"/>
 <br/>
 
 ## Development Tool & Framework
-<img src="https://img.shields.io/badge/unity-000000?style=for-the-badge&logo=Unity&logoColor=white"/> <img src="https://img.shields.io/badge/pycharm-009688?style=for-the-badge&logo=pycharm&logoColor=white"/>
+<img src="https://img.shields.io/badge/unity-000000?style=for-the-badge&logo=Unity&logoColor=white"/> <img src="https://img.shields.io/badge/pycharm-000000?style=for-the-badge&logo=pycharm&logoColor=white"/> <img src="https://img.shields.io/badge/firebase-dd2c00?style=for-the-badge&logo=pycharm&logoColor=white"/>
 <br/>
 
 
