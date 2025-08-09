@@ -18,13 +18,24 @@ Personalized Media Art Generation via Brainwave (EEG) Analysis
 <br/>
 <br/>
 
-## 🌻 프로젝트 설명
-![image](project_image/슬라이드4.JPG)
-![image](project_image/슬라이드6.JPG)
-![image](project_image/슬라이드8.JPG)
-![image](project_image/슬라이드10.JPG)
-![image](project_image/슬라이드18.JPG)
+## 🌻 Project UI
+![image](https://github.com/osy0602/EmotionPalette/blob/main/project_image/1.png)
+![image](https://github.com/osy0602/EmotionPalette/blob/main/project_image/2.png)
+The user's real-time brainwave (EEG) data, measured while listening to music.
 
+![image](https://github.com/osy0602/EmotionPalette/blob/main/project_image/3.png)
+The result of the deep learning model analyzing the brainwaves, converting the user's current state into similarity scores with six core emotions. The emotion with the highest score dictates the primary theme of the media art.
+
+![image](https://github.com/osy0602/EmotionPalette/blob/main/project_image/4.png)
+An individual's "Emotion Color Chip," generated based on the analyzed emotion data. Each color represents the type and intensity of an emotion and is used as a core visual element in the media art.
+
+![image](https://github.com/osy0602/EmotionPalette/blob/main/project_image/5.png)
+The final media art, generated in real-time by combining the user's brainwave data and the "Emotion Color Chip." 
+
+![image](https://github.com/osy0602/EmotionPalette/blob/main/project_image/6.jpg)
+![image](https://github.com/osy0602/EmotionPalette/blob/main/project_image/7.png)
+
+A photo booth feature that utilizes the "Emotion Color Chip" as a unique photo frame or filter, offering an experience to capture a special photo infused with the emotion of the moment.
 # 🎥 Video
 (https://youtu.be/vvR2YzrExpk?si=A1dRtW-o6epMg8tC)
 
