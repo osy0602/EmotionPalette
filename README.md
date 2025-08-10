@@ -2,7 +2,7 @@
 ![image](project_image/title.png)
 Personalized Media Art Generation via Brainwave (EEG) Analysis
 🎨 EmotionArt: Brainwave Media Art
-### 1. 🧠 AI-Powered Emotion Analysis & Visualization
+### 1. 🧠 Emotion Analysis & Visualization
 **Real-time Brainwave Analysis**: Measures a user's brainwave (EEG) signals in real-time using a Neurosky Mindwave device as they listen to their favorite music.
 
 **Deep Learning for Emotion Classification**: Utilizes a Supervised Learning model, developed in Python, to analyze the raw brainwave data and classify the user's emotional state into six core categories (e.g., romantic, dynamic).
